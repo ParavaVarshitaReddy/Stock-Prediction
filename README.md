@@ -1,5 +1,6 @@
 
-# Stock Price Prediction with Ensemble Learning
+
+# **Stock Price Prediction with Ensemble Learning**
 
 This project implements a robust stock price prediction model using machine learning techniques. It combines **LSTM**, **Random Forest**, and **XGBoost** models using **Stacking Ensemble** for enhanced accuracy. The project is complemented by CI/CD pipelines and Docker support for ease of deployment.
 
